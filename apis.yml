@@ -1,9 +1,31 @@
 aid: coachhub
 name: coachhub
-description: 'coachhub is a company surfaced as a portfolio company of hv-capital, partech, softbank-vision-fund,
-  speedinvest and added to the API Evangelist network as a stub for enrichment. Sector: ai-enterprise-software.
-  This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  CoachHub is a global digital coaching platform (headquartered in Berlin)
+  that lets enterprises deliver scalable, measurable one-to-one coaching to
+  their entire workforce through web and mobile apps. Its network spans 3,500+
+  certified business coaches across 90+ countries with sessions in 80+
+  languages, matched to learners via AI, and it ships an AI coaching companion
+  (AIMY). CoachHub serves 1,000+ enterprise clients and is backed by SoftBank
+  Vision Fund 2, Sofina, HV Capital, Partech and Speedinvest. It offers an
+  account-managed integration approach (SSO, automated provisioning and data
+  sync) with HR/LMS systems such as Workday, SAP, Oracle, Ceridian and
+  Microsoft Teams, but publishes no public developer API, OpenAPI, SDKs or
+  GitHub repositories. The platform is ISO 27001, ISO 27701, SOC 2 Type II,
+  TISAX and PCI DSS Level 1 certified and GDPR/CCPA compliant.
 url: https://raw.githubusercontent.com/api-evangelist/coachhub/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/67f39459718ec3640acc9e39/682b6cf720382b1a965e1734_icon-circle.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -15,10 +37,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Ai Enterprise Software
+- Digital Coaching
+- Learning And Development
+- HR Tech
+- Employee Development
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -28,3 +55,22 @@ maintainers:
 common:
 - type: Website
   url: https://coachhub.io/
+- type: PrivacyPolicy
+  url: https://www.coachhub.com/privacy-notice
+- type: TermsOfService
+  url: https://www.coachhub.com/terms
+- type: Compliance
+  url: https://www.coachhub.com/data-privacy
+- type: Security
+  url: https://www.coachhub.com/data-privacy
+- type: TrustCenter
+  url: security/coachhub-trust-center.yml
+- type: DomainSecurity
+  url: security/coachhub-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/coachhub-vulnerability-disclosure.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

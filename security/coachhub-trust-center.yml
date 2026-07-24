@@ -1,0 +1,28 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://www.coachhub.com/data-privacy
+url: https://trustcenter.coachhub.com/
+certifications:
+- ISO 27001
+- ISO 27701
+- SOC 2 Type II
+- TISAX
+- PCI DSS Level 1
+- ISO 9001
+- GDPR
+- CCPA
+compliance_program_url: https://www.coachhub.com/data-privacy
+subprocessors_url: https://coachhub.com/subprocessors
+evidence:
+- source: https://www.coachhub.com/data-privacy
+  keywords:
+  - iso 27001
+  - iso 27701
+  - soc 2 type ii
+  - tisax
+  - pci dss
+  - gdpr
+- source: https://trustcenter.coachhub.com/
+  keywords:
+  - trust center

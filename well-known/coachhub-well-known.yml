@@ -1,0 +1,19 @@
+generated: '2026-07-18'
+method: searched
+source: live probes of coachhub.io / www.coachhub.com
+host: https://coachhub.io
+note: >-
+  CoachHub publishes no public API and no /.well-known discovery surface.
+  All probed paths returned 404. Recorded as an honest negative result; no
+  WellKnown scoring pointer is emitted.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
