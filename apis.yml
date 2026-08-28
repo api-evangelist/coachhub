@@ -14,6 +14,17 @@ description: >-
   GitHub repositories. The platform is ISO 27001, ISO 27701, SOC 2 Type II,
   TISAX and PCI DSS Level 1 certified and GDPR/CCPA compliant.
 url: https://raw.githubusercontent.com/api-evangelist/coachhub/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
