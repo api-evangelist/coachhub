@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-coachhub is a company surfaced as a portfolio company of hv-capital, partech, softbank-vision-fund, speedinvest and added to the API Evangelist network as a stub for enrichment. Sector: ai-enterprise-software. This profile is a lead awaiting the enrichment pipeline.
+CoachHub is a global digital coaching platform (headquartered in Berlin) that lets enterprises deliver scalable, measurable one-to-one coaching to their entire workforce through web and mobile apps. Its network spans 3,500+ certified business coaches across 90+ countries with sessions in 80+ languages, matched to learners via AI, and it ships an AI coaching companion (AIMY). CoachHub serves 1,000+ enterprise clients and is backed by SoftBank Vision Fund 2, Sofina, HV Capital, Partech and Speedinvest. It offers an account-managed integration approach (SSO, automated provisioning and data sync) with HR/LMS systems such as Workday, SAP, Oracle, Ceridian and Microsoft Teams, but publishes no public developer API, OpenAPI, SDKs or GitHub repositories. The platform is ISO 27001, ISO 27701, SOC 2 Type II, TISAX and PCI DSS Level 1 certified and GDPR/CCPA compliant.
 
-Backed by: hv-capital, partech, softbank-vision-fund, speedinvest — https://coachhub.io/
+**Areas:** Company · Ai Enterprise Software · Digital Coaching · Learning and Development · Human Resources · Employee Development · Software-as-a-Service
+
+## coachhub on APIs.io
+
+Everything profiled for coachhub is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/coachhub/](https://apis.io/providers/coachhub/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Coachhub Domain Security](https://apis.io/security/coachhub/coachhub-domain-security/)
+- [Coachhub Trust Center](https://apis.io/security/coachhub/coachhub-trust-center/)
+- [Coachhub Vulnerability Disclosure](https://apis.io/security/coachhub/coachhub-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://coachhub.io/)
+- [Blog](https://www.coachhub.com/blogs)
+- [Security](https://www.coachhub.com/data-privacy)
+- [Compliance](https://www.coachhub.com/data-privacy)
+- [Terms of service](https://www.coachhub.com/terms)
+- [Privacy policy](https://www.coachhub.com/privacy-notice)
+
+## API Evangelist rating
+
+**Kin Score 14.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Employment & Payroll
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/coachhub/](https://apis.io/providers/coachhub/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for coachhub: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/coachhub/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
